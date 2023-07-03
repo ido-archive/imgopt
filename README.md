@@ -3,8 +3,7 @@ Image optimization with imagemin (sharp/webp)
 
 ## 📍기본정보
 ![image](https://github.com/ido-archive/imgopt/assets/114931086/63f760fa-41b1-492f-aa76-6581f22ec103)
-이미지 파일(jpg, png) 용량을 줄여 페이지 로딩 속도를 개선합니다. 
-
+이미지 파일(jpg, png) 용량을 줄여 페이지 로딩 속도를 개선합니다.
 imgopt.mjs 와 package.json 이 필요합니다.
 
 ## 📍사전 설치
